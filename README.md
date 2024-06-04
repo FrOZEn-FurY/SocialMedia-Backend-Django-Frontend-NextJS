@@ -8,19 +8,13 @@ To use the project and see it for yourself, follow the steps below.
 - In the root directory, run the following command
 
 ```bash
-python -m venv venv
-```
-
-- then
-
-```bash
 source ./venv/bin/activate
 ```
 
 - then
 
 ```bash
-cd ./fullstack && pip install -r requirements.txt
+cd ./fullstack 
 ```
 
 - then
